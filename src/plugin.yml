@@ -1,0 +1,10 @@
+name: StompzEssentials
+main: com.diamond.essentials.Main
+version: 1.2
+api-version: 1.16
+commands:
+   fly:
+      discription: Use this to fly!
+   sp:
+      discription: is SuperPick or StompzHammer.
+      aliases: [superpick]
